@@ -1,3 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-## I am trying to edit this
+##This is a test
